@@ -1,0 +1,9 @@
+header {background-color:aquamarine ;}
+header:hover{
+    background-color: blue;
+}
+h1 {color:rgb(224, 59, 95);}
+main {background-color: darkseagreen;}
+h2 {color:rgb(194, 24, 80);}
+footer{background-color: hotpink;}
+p{color: rgb(233, 72, 147);}
